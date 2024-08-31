@@ -1,0 +1,9 @@
+recursive-include dialog *
+recursive-include vocab *
+recursive-include locale *
+recursive-include res *
+recursive-include ui *
+include README.md
+include requirements.txt
+include CHANGELOG.md
+include LICENSE
